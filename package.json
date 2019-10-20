@@ -1,0 +1,11 @@
+{
+  "name": "vincemalone.com",
+  "version": "1.0.0",
+  "repository": "https://github.com/VinceMalone/vincemalone.com",
+  "author": "VinceMalone <vince.t.malone@gmail.com>",
+  "license": "ISC",
+  "private": true,
+  "scripts": {
+    "build": "cp -r src dist"
+  }
+}
